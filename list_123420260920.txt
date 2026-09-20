@@ -1,0 +1,23 @@
+# Custom Hosts Blocklist - Testes Alcançáveis
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 googleads4.g.doubleclick.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 adclick.g.doubleclick.net
+127.0.0.1 cm.g.doubleclick.net
+127.0.0.1 xn--estatsticas-q9a.g.doubleclick.net
+127.0.0.1 static.doubleclick.net
+127.0.0.1 m.doubleclick.net
+127.0.0.1 mediavisor.doubleclick.net
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 xn--anncios-1za.microsoft.com
+127.0.0.1 metrica.yandex.ru
+127.0.0.1 navegador.sentry-cdn.com
+127.0.0.1 xn--grfico-pta.facebook.com
+127.0.0.1 xn--grfico-pta.instagram.com
+127.0.0.1 xn--anncios-1za.x.com
+127.0.0.1 xn--anncios-1za.vk.com
+127.0.0.1 xn--anncios-1za.huawei.com
+127.0.0.1 portaldeprivacidade.onetrust.com
+127.0.0.1 clique.mailchimp.com
+127.0.0.1 cliente.io
