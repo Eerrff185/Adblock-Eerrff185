@@ -21,3 +21,5 @@
 127.0.0.1 portaldeprivacidade.onetrust.com
 127.0.0.1 clique.mailchimp.com
 127.0.0.1 cliente.io
+127.0.0.1 browser.sentry-cdn.com
+127.0.0.1 metrika.yandex.ru
