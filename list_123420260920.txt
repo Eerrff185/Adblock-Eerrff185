@@ -1,4 +1,4 @@
-# Custom Hosts Blocklist - Testes Alcançáveis
+# Unifying All Blocked Hosts (Punycode Corrected)
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleads4.g.doubleclick.net
 127.0.0.1 ad.doubleclick.net
